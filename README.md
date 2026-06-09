@@ -1,50 +1,58 @@
 # Expenny 💸
 
-A modern Flutter-based Expense Tracker and Subscription Management application designed to help users monitor recurring subscriptions, manage budgets, track upcoming bills, and visualize spending habits through an elegant UI.
+<p align="center">
+  <b>A modern Flutter Expense Tracker & Subscription Management Application</b>
+</p>
 
-## 📱 Screenshots
+<p align="center">
+  Track subscriptions • Manage budgets • Monitor expenses • Plan your spending
+</p>
 
-### Welcome Screen
+---
 
-![Welcome Screen](screenshots/welcome.png)
+## 📱 Application Screenshots
 
-### Social Login
+<div align="center">
 
-![Social Login](screenshots/social_login.png)
+<img src="screenshots/welcome.png" width="220"/>
+<img src="screenshots/social_login.png" width="220"/>
+<img src="screenshots/signin.png" width="220"/>
 
-### Sign In
+<br><br>
 
-![Sign In](screenshots/signin.png)
+<img src="screenshots/home.png" width="220"/>
+<img src="screenshots/budgets.png" width="220"/>
+<img src="screenshots/calendar.png" width="220"/>
 
-### Dashboard
+<br><br>
 
-![Dashboard](screenshots/home.png)
+<img src="screenshots/cards.png" width="220"/>
 
-### Budget Tracking
-
-![Budget Tracking](screenshots/budgets.png)
-
-### Calendar View
-
-![Calendar View](screenshots/calendar.png)
-
-### Credit Cards
-
-![Credit Cards](screenshots/cards.png)
+</div>
 
 ---
 
 ## ✨ Features
 
-* Beautiful modern UI
-* Subscription management
-* Expense tracking
-* Budget planning
-* Upcoming bills overview
-* Calendar-based expense visualization
-* Credit card management interface
-* Responsive design
-* Custom widgets and reusable components
+### Current Features
+
+- Beautiful and modern UI
+- Welcome & Authentication screens
+- Subscription management dashboard
+- Budget tracking interface
+- Monthly expense visualization
+- Calendar view for subscriptions
+- Credit card management UI
+- Responsive layouts
+- Reusable custom widgets
+- Custom painters and animations
+
+### User Experience
+
+- Smooth navigation
+- Modern purple-themed design
+- Clean and intuitive interface
+- Mobile-first approach
 
 ---
 
@@ -52,24 +60,28 @@ A modern Flutter-based Expense Tracker and Subscription Management application d
 
 ### Frontend
 
-* Flutter
-* Dart
-* Material Design
+- Flutter
+- Dart
+- Material Design
 
-### Planned Backend
+### State Management (Planned)
 
-* Node.js
-* Express.js
-* MongoDB
-* JWT Authentication
+- BLoC
+- Cubit
 
-### Planned Architecture Improvements
+### Backend (Planned)
 
-* Clean Architecture
-* BLoC / Cubit State Management
-* Dependency Injection
-* Repository Pattern
-* Modular Architecture
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### Architecture (Planned)
+
+- Clean Architecture
+- Dependency Injection
+- Repository Pattern
+- Feature-based Modular Structure
 
 ---
 
@@ -98,32 +110,30 @@ lib/
 
 ### Prerequisites
 
-* Flutter SDK
-* Android Studio
-* Android SDK
-* Git
+- Flutter SDK
+- Android Studio
+- Android SDK
+- Git
 
-### Installation
-
-Clone the repository:
+### Clone Repository
 
 ```bash
 git clone https://github.com/Art0citus/Expenny.git
 ```
 
-Move into project directory:
+### Move Into Project Directory
 
 ```bash
 cd Expenny
 ```
 
-Install dependencies:
+### Install Dependencies
 
 ```bash
 flutter pub get
 ```
 
-Run the application:
+### Run Application
 
 ```bash
 flutter run
@@ -131,19 +141,68 @@ flutter run
 
 ---
 
-## 🎯 Future Roadmap
+## 🚧 Current Status
 
-* User Authentication
-* Google Sign-In
-* Backend Integration
-* Cloud Database Synchronization
-* Push Notifications
-* Expense Analytics
-* Dark/Light Theme Support
-* AI-powered Expense Insights
+### Completed
+
+- Welcome Screen
+- Social Login Screen
+- Sign In Screen
+- Dashboard Screen
+- Budget Tracking Screen
+- Calendar Screen
+- Credit Cards Screen
+- Custom UI Components
+- Responsive Layouts
+
+### In Progress
+
+- Authentication System
+- Backend Integration
+- MongoDB Database
+- API Integration
+
+### Upcoming
+
+- Google Sign-In
+- JWT Authentication
+- Expense Analytics
+- Subscription Reminders
+- Push Notifications
+- Cloud Sync
 
 ---
 
+## 🎯 Learning Goals
+
+This project is being used to learn and implement:
+
+- Flutter Development
+- Clean Architecture
+- BLoC State Management
+- Cubit State Management
+- Dependency Injection
+- REST API Integration
+- Authentication & Authorization
+- Full Stack Mobile Development
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a Pull Request
+
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+⭐ If you like this project, consider giving it a star on GitHub!
+</p>
