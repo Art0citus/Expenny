@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:trackizer/view/add_subscription/add_subscription_view.dart';
+import 'package:Expenny/view/add_subscription/add_subscription_view.dart';
 
 import '../../common/color_extension.dart';
 import '../calender/calender_view.dart';

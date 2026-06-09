@@ -1,6 +1,6 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
-import 'package:trackizer/common_widget/secondary_boutton.dart';
+import 'package:Expenny/common_widget/secondary_boutton.dart';
 
 import '../../common/color_extension.dart';
 import '../../common_widget/item_row.dart';

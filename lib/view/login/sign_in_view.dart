@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trackizer/view/login/sign_up_view.dart';
+import 'package:Expenny/view/login/sign_up_view.dart';
 
 
 import '../../common/color_extension.dart';

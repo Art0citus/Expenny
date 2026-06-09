@@ -1,8 +1,8 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:trackizer/common/color_extension.dart';
-import 'package:trackizer/common_widget/primary_button.dart';
-import 'package:trackizer/common_widget/round_textfield.dart';
+import 'package:Expenny/common/color_extension.dart';
+import 'package:Expenny/common_widget/primary_button.dart';
+import 'package:Expenny/common_widget/round_textfield.dart';
 
 import '../../common_widget/image_button.dart';
 

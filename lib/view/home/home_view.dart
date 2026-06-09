@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trackizer/common/color_extension.dart';
+import 'package:Expenny/common/color_extension.dart';
 
 import '../../common_widget/custom_arc_painter.dart';
 import '../../common_widget/segment_button.dart';

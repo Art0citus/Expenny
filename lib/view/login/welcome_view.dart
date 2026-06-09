@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:trackizer/view/login/sign_in_view.dart';
-import 'package:trackizer/view/login/social_login.dart';
+import 'package:Expenny/view/login/sign_in_view.dart';
+import 'package:Expenny/view/login/social_login.dart';
 
 import '../../common/color_extension.dart';
 import '../../common_widget/primary_button.dart';
