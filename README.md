@@ -154,22 +154,11 @@ flutter run
 - Credit Cards Screen
 - Custom UI Components
 - Responsive Layouts
-
-### In Progress
-
 - Authentication System
 - Backend Integration
 - MongoDB Database
 - API Integration
 
-### Upcoming
-
-- Google Sign-In
-- JWT Authentication
-- Expense Analytics
-- Subscription Reminders
-- Push Notifications
-- Cloud Sync
 
 ---
 
