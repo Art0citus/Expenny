@@ -23,10 +23,9 @@
 
 <img src="screenshots/budgets.png" width="220"/>
 <img src="screenshots/calendar.png" width="220"/>
-
-<br><br>
-
 <img src="screenshots/cards.png" width="220"/>
+
+
 
 </div>
 
