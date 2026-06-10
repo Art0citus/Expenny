@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="screenshots/home.png" width="220"/>
+
 <img src="screenshots/budgets.png" width="220"/>
 <img src="screenshots/calendar.png" width="220"/>
 
